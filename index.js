@@ -13,3 +13,8 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 });
+
+// ASsignment 
+// create a http server in C from Scratch.
+//   Create a todo app where you store data in a file.
+//   create rust/Go / Java Server
