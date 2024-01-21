@@ -3,7 +3,6 @@
 
 // // Node.js is an event-driven, non-blocking, asynchronous I/O runtime that uses
 
-const http = require("http");
 const express = require("express");
 const app = express();
 
